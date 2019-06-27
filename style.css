@@ -1,0 +1,29 @@
+body, html {
+     height: 100%;
+     background-image: url("landing.jpg");
+     background-size: cover;
+     background-position: center;
+}
+
+p {
+    font-family: "Raleway", sans-serif;
+    margin-top:50px;
+    font-size: 30px;
+}
+
+.btn {
+    margin-top: 250px;
+    border-radius: 30px;
+}
+
+.row {
+    text-align: center;
+    justify-content: center;
+}
+
+.divider {
+    background-color: #FFC107;
+    height: 3px;
+    width: 200px;
+    border-radius: 30px;
+}
